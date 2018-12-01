@@ -73,9 +73,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 fragmento = Fragment3.newInstance("","")
                 cambio = true
             }
-            R.id.nav_manage -> {
-
-            }
             R.id.nav_share -> {
 
             }
